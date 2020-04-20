@@ -1,3 +1,4 @@
 # Laravel-todoapp
-シンプルなDockerでのLaravelk環境構築
+
+https://www.hypertextcandy.com/laravel-tutorial-introduction
 
