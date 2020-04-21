@@ -28,7 +28,7 @@
           <div class="panel-heading">タスク</div>
           <div class="panel-body">
             <div class="text-right">
-              <a href="#" class="btn btn-default btn-block">
+              <a href="/folders/{{$current_folder_id}}/tasks/create" class="btn btn-default btn-block">
                 タスクを追加する
               </a>
             </div>
