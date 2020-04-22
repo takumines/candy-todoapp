@@ -33,7 +33,7 @@
 </main>
 @if(Auth::check())
   <script>
-    documrnt.getElementById('logout').addEventListener('click', function(event) {
+    document.getElementById('logout').addEventListener('click', function(event) {
       event.preventDefault();
       document.getElementById('logout-form').submit();
     });
